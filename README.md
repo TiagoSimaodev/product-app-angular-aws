@@ -39,9 +39,9 @@ O frontend consome a API via HTTP, garantindo desacoplamento entre as camadas.
 
 * Angular
 * TypeScript
-* HTML5 + CSS3
-* Bootstrap (ou outro, se você usou)
-
+* HTML5 
+* Bootstrap
+  
 ### Backend (API)
 
 * Java 17
