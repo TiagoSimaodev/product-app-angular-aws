@@ -118,7 +118,8 @@ http://localhost:4200
 
 ## 📷 Demonstração
 
-📌 *Adicione aqui prints da aplicação ou a imagem da arquitetura utilizada.*
+📌 ![api](https://github.com/user-attachments/assets/b785648e-39a8-47cc-af66-11bf404869b5)
+
 
 ---
 
